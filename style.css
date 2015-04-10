@@ -1,0 +1,12 @@
+.grid{
+  width:960px;
+}
+
+.pix{
+  background-color:grey;
+  display:inline-block;
+}
+
+.color{
+  background-color:black;
+}
